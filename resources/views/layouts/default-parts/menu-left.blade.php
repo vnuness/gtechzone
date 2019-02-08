@@ -1,6 +1,6 @@
 <div class="left side-menu">
     <div class="sidebar-inner slimscrollleft">
-        <div id="sidebar-menu">
+        <div id="sidebar-menu" >
             {!! (new \App\Library\MenuBuilder())  !!}
             <div class="clearfix"></div>
         </div>

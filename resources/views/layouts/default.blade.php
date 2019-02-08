@@ -34,7 +34,7 @@
 
     <div class="topbar">
 
-        <div class="topbar-left">
+        <div class="topbar-left" style="background: #4c5667;">
             <div class="text-center">
                 <a href="{{route('home')}}" class="logo">
                     <img src="{{asset('images/logo.png')}}" style="max-height:40px;" alt="MeetaWeb">
@@ -100,7 +100,7 @@
         <!-- end content -->
 
         <footer class="footer">
-            {{ date('Y') }} © MeetaWeb Solutions
+            {{ date('Y') }} © Victor Nunes
         </footer>
 
     </div>

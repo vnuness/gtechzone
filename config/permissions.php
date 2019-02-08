@@ -5,8 +5,8 @@ return [
         "Menu Principal" => [
             "menu" => ['type' => 'title'],
             "itens" => [
-                "Dashboard" => [
-                    "menu" => ['type' => 'link', "route" => "home", "icon-class" => "ti-home"],
+                "Estoque" => [
+                    "menu" => ['type' => 'link', "route" => "home", "icon-class" => "ti-dropbox-alt"],
                     "permissions" => [
                         'dashboard.view' => 'Visualizar página',
                     ]
