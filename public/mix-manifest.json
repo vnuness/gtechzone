@@ -1,0 +1,6 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/plugins/wavesurfer/wavesurfer.min.js": "/plugins/wavesurfer/wavesurfer.min.js",
+    "/plugins/jquery-smooth-scroll/jquery.smooth-scroll.js": "/plugins/jquery-smooth-scroll/jquery.smooth-scroll.js"
+}
